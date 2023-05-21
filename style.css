@@ -213,7 +213,7 @@
      color: #114c7d;
      font-weight: 400;
      font-size: 28px;
-     background-image: url('../images/fevicon.png');
+     background-image: url('fevicon.png');
      background-repeat: no-repeat;
      padding-left: 55px;
      letter-spacing: -0.5px;
@@ -979,7 +979,7 @@
 .header_information::after {
     width: 75px;
     height: 90px;
-    background: url(../images/top_arrow.png);
+    background: url(top_arrow.png);
     display: block;
     content: "";
     position: absolute;
@@ -993,7 +993,7 @@ background-repeat: no-repeat;
  .header_information::before {
     width: 96px;
     height: 49px;
-    background: url(../images/top_arrow1.png);
+    background: url(top_arrow1.png);
     display: block;
     content: "";
     position: absolute;
@@ -1027,7 +1027,7 @@ width: 24%;
     width: 44px;
 height: 88px;
 margin-left: -51px;
-    background: url(../images/top_arrow2.png);
+    background: url(top_arrow2.png);
     display: block;
     content: "";
     position: absolute;
@@ -1041,7 +1041,7 @@ background-repeat: no-repeat;
 }
  
  .header-top {
-     background:url(../images/banner2.jpg);
+     background:url(banner2.jpg);
      background-size: 100% 100%;
      background-repeat: no-repeat;
      padding-bottom: 50px;
